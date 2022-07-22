@@ -1,3 +1,1 @@
-#! /usr/bin
-
-mkdir Test
+echo "I am yet to do"
