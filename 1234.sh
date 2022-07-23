@@ -1,5 +1,5 @@
 #! /bin/sh
-
+echo "I am yet to do"
 echo "i am learning devops, devops is fun, Linux is OS which is light, linux is linux" > testing.txt
 
 maxCount=0
